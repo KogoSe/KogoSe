@@ -1,7 +1,6 @@
 - 👋 Hi, I’m KogoSe 
 - 👀 I’m interested in coding
-- 🌱 and I’m currently learning too much :D
-- 💞️ I dreamed of entering KMITL. 
+- 🌱 and I’m currently learning too much :D 
 - 📫 you can reach me at facebook " Somyot Dansupakitwong " if you can "_"
 
 <!---
